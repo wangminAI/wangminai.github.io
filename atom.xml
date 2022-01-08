@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://wangminai.github.io</id>
     <title>Gridea</title>
-    <updated>2022-01-08T05:16:08.446Z</updated>
+    <updated>2022-01-08T05:50:53.816Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://wangminai.github.io"/>
     <link rel="self" href="https://wangminai.github.io/atom.xml"/>
@@ -10,6 +10,18 @@
     <logo>https://wangminai.github.io/images/avatar.png</logo>
     <icon>https://wangminai.github.io/favicon.ico</icon>
     <rights>All rights reserved 2022, Gridea</rights>
+    <entry>
+        <title type="html"><![CDATA[测试文章]]></title>
+        <id>https://wangminai.github.io/post/ce-shi-wen-zhang/</id>
+        <link href="https://wangminai.github.io/post/ce-shi-wen-zhang/">
+        </link>
+        <updated>2022-01-08T05:50:07.000Z</updated>
+        <content type="html"><![CDATA[<p>你好世界<br>
+#你好<br>
+你看看<br>
+##你好</p>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Hello Gridea]]></title>
         <id>https://wangminai.github.io/post/hello-gridea/</id>
