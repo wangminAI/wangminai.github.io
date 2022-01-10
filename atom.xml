@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://wangminai.github.io</id>
     <title>王敏的个人V博客</title>
-    <updated>2022-01-10T03:04:15.999Z</updated>
+    <updated>2022-01-10T03:51:18.138Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://wangminai.github.io"/>
     <link rel="self" href="https://wangminai.github.io/atom.xml"/>
@@ -10,6 +10,88 @@
     <logo>https://wangminai.github.io/images/avatar.png</logo>
     <icon>https://wangminai.github.io/favicon.ico</icon>
     <rights>All rights reserved 2022, 王敏的个人V博客</rights>
+    <entry>
+        <title type="html"><![CDATA[markdown语法简单使用]]></title>
+        <id>https://wangminai.github.io/post/tian-jia/</id>
+        <link href="https://wangminai.github.io/post/tian-jia/">
+        </link>
+        <updated>2022-01-10T03:25:58.000Z</updated>
+        <summary type="html"><![CDATA[<p>这里简单记录一下使用方法吧，有时间就会更新的</p>
+]]></summary>
+        <content type="html"><![CDATA[<p>这里简单记录一下使用方法吧，有时间就会更新的</p>
+<!-- more -->
+<figure data-type="image" tabindex="1"><img src="https://wangminai.github.io/post-images/1641786505199.jpg" alt="" loading="lazy"></figure>
+<h1 id="标题">标题（#）</h1>
+<p>##依次标题大小，最高六级</p>
+<p><strong>字体加粗</strong>（**包围）<br>
+<em>斜体</em>（*包围）</p>
+<p><s>删除线</s>（~~包围）</p>
+<blockquote>
+<p>这是引用（引用文字前加&gt;）<br>
+可进行嵌套引用，如</p>
+<blockquote>
+<p>二级嵌套</p>
+<blockquote>
+<p>三级嵌套</p>
+</blockquote>
+</blockquote>
+</blockquote>
+<hr>
+<p>分割线可使用---</p>
+<p>链接可使用 【】（） <a href="https://www.baidu.com">百度</a></p>
+<p>无序列表*空格</p>
+<ul>
+<li>11111</li>
+<li>22222</li>
+<li>33333</li>
+</ul>
+<p>有序列表1.空格</p>
+<ol>
+<li>11111</li>
+<li>22222</li>
+<li>33333</li>
+</ol>
+<p>列表嵌套</p>
+<ol>
+<li>11111
+<ol>
+<li>1111</li>
+<li>111</li>
+<li>11</li>
+<li>1</li>
+</ol>
+</li>
+<li>22222</li>
+</ol>
+<table>
+<thead>
+<tr>
+<th>姓名</th>
+<th style="text-align:center">技能</th>
+<th style="text-align:right">排行</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>刘备</td>
+<td style="text-align:center">哭</td>
+<td style="text-align:right">大哥</td>
+</tr>
+<tr>
+<td>关羽</td>
+<td style="text-align:center">打</td>
+<td style="text-align:right">二哥</td>
+</tr>
+<tr>
+<td>张飞</td>
+<td style="text-align:center">骂</td>
+<td style="text-align:right">三弟</td>
+</tr>
+</tbody>
+</table>
+<p>简单写一下  待更新</p>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Hello Gridea]]></title>
         <id>https://wangminai.github.io/post/hello-gridea/</id>
